@@ -1,0 +1,3 @@
+[submodule "notbit"]
+	path = notbit
+	url = http://github.com/bpeel/notbit.git
